@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background-color: blue;
+}
+
+.carousel-inner p {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	font-size: 20px;
+	color: white;
+}
+
+#Logo {
+	width: 600px;
+	height: 400px;
+}
+
+#mycarousel {
+	background-color: blue;
+}
+
+#ten {
+	width: 325px;
+	height: 225px;
+}
+
+#mycarousel img {
+	margin-top: 35px;
+	
+}
